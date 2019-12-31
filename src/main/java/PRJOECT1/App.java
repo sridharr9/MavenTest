@@ -1,7 +1,7 @@
 package PRJOECT1;
 
 /**
- * Hello world!
+ * Hello world Happy NewYear!
  *
  */
 public class App 
